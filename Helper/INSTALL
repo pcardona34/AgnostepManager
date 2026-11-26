@@ -1,0 +1,5 @@
+To install the socket:
+
+make clean
+make
+sudo make install

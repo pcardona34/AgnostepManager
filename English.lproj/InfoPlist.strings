@@ -1,0 +1,6 @@
+/* AgnostepManager: localizablestrings for the Info Panel */
+
+ApplicationDescription = "An Applications Manager for the Agnostep Desktop Project";
+Copyright = "Copyright (C) 2026 - An Agnostep Application";
+CopyrightDescription = "Released under the MIT License";
+

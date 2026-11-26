@@ -1,0 +1,10 @@
+! xdefaults
+
+XTerm*foreground: white
+XTerm*background: black
+XTerm*scrollBar: false
+XTerm*faceName: DejaVuSansMono 
+XTerm*faceSize: 9
+XTerm*geometry: 568x510+0+0
+XTerm*color4: #8686BE
+XTerm*color12: #59597E

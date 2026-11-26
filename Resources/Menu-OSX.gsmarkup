@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE gsmarkup>
+<!-- AgnostepManager Menu for OSX
+(c) 2026 - Patrick Cardona
+An Agnostep Desktop Application
+Under MIT License -->
+<gsmarkup>
+  <objects>
+    <menu type="main">
+      <menuItem title="AgnostepManager">
+        <menu title="AgnostepManager" type="apple">
+          <menuItem title="Manager..." keyEquivalent="" action="manager:" />
+          <menuItem title="Quit" keyEquivalent="q" action="terminate:" />
+        </menu>
+      </menuItem>
+      <menuItem title="Info">
+        <menu title="Info" type="apple">
+          <menuItem title="Info Panel..." keyEquivalent=""
+           									action="orderFrontStandardInfoPanel:" />
+          <menuItem title="Help..." keyEquivalent="?" action="orderFrontHelpPanel:" />
+        </menu>
+      </menuItem>
+    </menu>
+  </objects>
+</gsmarkup>

@@ -1,0 +1,4 @@
+- _Xresources must ne copied to ~/.Xresources
+- AMLauncher.sh have must be copied to /usr/local/bin
+
+Both must have execute permission.

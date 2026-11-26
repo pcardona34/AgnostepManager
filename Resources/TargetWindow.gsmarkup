@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE gsmarkup>
+<!-- AgnostepManager Window
+(c) 2026 - Patrick Cardona
+An Agnostep Desktop Application
+Under MIT License -->
+<gsmarkup>
+  
+  <objects>
+    <window title="Agnostep Manager" id="targetWindow" delegate="#myDelegate">
+    
+      <view width="568" height="510">
+      
+      </view>
+    
+  </window>
+  </objects>
+  
+  <connectors>
+   <outlet source="#NSOwner" target="#targetWindow" key="targetWindow"/>
+  </connectors>
+  
+</gsmarkup>
