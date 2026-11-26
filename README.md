@@ -13,6 +13,8 @@ This is a GNUstep gui to [agnostep-apps-manager](../../../agnostep-apps-manager)
 It allows to install all the necessary software to create
 the whole Desktop experience.
 
+![AgnostepManager](./Screenshots/AgnostepManager.png)
+
 ## Dependencies
 
 **AgnostepManager** depends on:

@@ -15,5 +15,5 @@ else
 	cd $HOME/SOURCES/agnostep-apps-manager
      pwd
      echo "Running Agnostep Manager..."
-	. ./agnostep.sh
+	bash ./agnostep.sh
 fi
